@@ -1,6 +1,7 @@
 Bilibili redirector
 ===
-OK, in fact this is not a redirector. This is my experimental UWA (Universal Windows Application). The only function this App provides is a live tile. This App supports medium, wide, and large tiles. It will crawl the update of Bilibili Bangumi page and update the live tile accordingly(well, not exactly, the crawling work is done by scripts on a remote server, see Project `placeholder`).
+OK, in fact this is not a redirector. This is my experimental UWA (Universal Windows Application). The only function this App provides is a live tile. This App supports medium, wide, and large tiles.
+It will crawl the update of Bilibili Bangumi page and update the live tile accordingly(well, not exactly, the crawling work is done by scripts on a remote server, see Project https://github.com/johnmave126/Bilibili-tile-backend).
 
 HOWTO
 ---------
